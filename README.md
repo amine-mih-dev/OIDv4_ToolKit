@@ -9,7 +9,7 @@ python convert_annotations.py
 ```
 
 This will generate .txt annotation files in proper format for custom object detection with YOLOv3. The text files are generated in folder with images.
-and also allows you to downloaad images directly to your cloud storage, use the following command 
+and also allows you to download images directly to your cloud storage, use the following command:
 
 ```bash
 !pip install awscli
